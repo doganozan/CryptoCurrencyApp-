@@ -1,4 +1,9 @@
-# kriptocoin
+# CryptoCurrencyApp
+ScreenShots
+
+
+![](/screenshots/sshots.jpg)
+
 
 A new Flutter application.
 
