@@ -1,8 +1,8 @@
 # CryptoCurrencyApp
-Screenshots
+ScreenShots
 
 
-![](/screenshots/sshots.jpg) 
+![](/screenshots/sshots.jpg)
 
 
 A new Flutter application.
