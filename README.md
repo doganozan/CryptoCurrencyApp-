@@ -5,6 +5,12 @@ A Flutter application that shows crypto coins names,prices and changes.Users can
 # API
 https://min-api.cryptocompare.com/
 
+# ScreenShots
+
+![](/screenshots/sshots.jpg)
+![](/screenshots/giteth.jpg)
+
+
 # Built With
 Flutter - Google's app development framework. (https://flutter.io)
 
@@ -13,9 +19,6 @@ Flutter - Google's app development framework. (https://flutter.io)
 - Install the dependicies
 - Run it
 
-# ScreenShots
-
-![](/screenshots/sshots.jpg)
 
 # Requirements
 Any Operating System (MacOS X, Linux, Windows)
