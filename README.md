@@ -6,7 +6,7 @@ A Flutter application that shows crypto coins names,prices and changes.Users can
 https://min-api.cryptocompare.com/
 
 # Medium
-https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-ve-manip%C3%BCle-etme-kripto-para-uygulamas%C4%B1-3275c74785dc
+https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-ve-manip%C3%BCle-etme-kripto-para-uygulamas%C4%B1-3275c74785dc   [Turkish]
 
 # ScreenShots
 
